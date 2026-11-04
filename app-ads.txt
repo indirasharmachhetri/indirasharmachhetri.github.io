@@ -2287,3 +2287,30 @@ zetaglobal.net, 630, RESELLER
 zetaglobal.net, 848, RESELLER
 zmaticoo.com, 114122, RESELLER
 zmaticoo.com, 5135195, RESELLER
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+freewheel.tv, 741650, RESELLER
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+media.net, 8CAXEGFDP, RESELLER
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+triplelift.com, 14705-EB, RESELLER
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86
+thunder-monetize.com, 2158729563, RESELLER
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+bigo.sg, adidz3dyfp, RESELLER
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+video.unrulymedia.com, 947824792, RESELLER
+monetrix.ai, 10761, RESELLER
+xandr.com, 7353, RESELLER
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+start.io, 131192070, RESELLER
+smartclip.net, 15458, RESELLER
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
