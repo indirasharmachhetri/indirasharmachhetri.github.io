@@ -2314,3 +2314,7 @@ openx.com, 540393169, RESELLER, 6a698e2ec38604c6
 start.io, 131192070, RESELLER
 smartclip.net, 15458, RESELLER
 triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
+taurusx.com, 70097, RESELLER
+bluexad.ai, 1996418805747683328, RESELLER
+stroeer.com, 17379, RESELLER
