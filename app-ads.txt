@@ -902,3 +902,4 @@ sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
 vidoomy.com, 8953515, RESELLER
 triplelift.com, 14800, RESELLER, 6c33edb13117fd86
 rubiconproject.com, 27136, RESELLER, 0bfd66d529a55807
+bigo.sg, q9hk29ki8d, RESELLER
